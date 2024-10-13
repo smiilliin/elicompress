@@ -4,6 +4,7 @@ Polynomial elimination compression method
 
 ## Explanation
 - It uses the polynomial elimination method and discrete gradient descent method developed by Lee Ji-hwan (smiilliin)
+- I found this method can compress 98%
 - More explanation will be added later.
 
 ## Images
